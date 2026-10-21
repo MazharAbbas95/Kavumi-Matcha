@@ -1,0 +1,6 @@
+{
+  "name": "Kavumi Matcha | Premium Matcha Powder",
+  "description": "Discover Kavumi Matcha, a refined matcha experience for your daily tea ritual. Explore ceremonial matcha powder and learn how to prepare your perfect cup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
